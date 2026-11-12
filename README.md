@@ -1,7 +1,5 @@
-# streaming-algorithms
-## [과제4] 스트리밍 알고리즘 비교 실험
-
 # Streaming Algorithm Benchmark
+## [과제4] 스트리밍 알고리즘 비교 실험
 
 MovieLens 1M 데이터를 이용해 **Bloom Filter**와 **Count-Min Sketch**를 Python으로 직접 구현하고, 정확도·메모리·처리시간의 트레이드오프를 비교한 실험 프로젝트입니다.
 
